@@ -1,1 +1,1 @@
-Initial commit
+Release version 1.0.0
